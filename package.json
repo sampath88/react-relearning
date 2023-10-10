@@ -1,0 +1,23 @@
+{
+  "name": "react_basics",
+  "version": "1.0.0",
+  "description": "I don't know react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sampath88/react-relearning.git"
+  },
+  "keywords": [
+    "react",
+    "basics"
+  ],
+  "author": "Sampath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sampath88/react-relearning/issues"
+  },
+  "homepage": "https://github.com/sampath88/react-relearning#readme"
+}

@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sampath88/react-relearning/issues"
   },
-  "homepage": "https://github.com/sampath88/react-relearning#readme"
+  "homepage": "https://github.com/sampath88/react-relearning#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
 }
